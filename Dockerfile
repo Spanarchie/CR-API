@@ -1,7 +1,7 @@
 #install nginx
 FROM python:3.5.1
 
-MAINTAINER Ric Murillo <murilloric@gmail.com>
+MAINTAINER Ric Colin Moore-Hill <spanarchian@gmail.com>
 
 # install nginx and supervisor
 
